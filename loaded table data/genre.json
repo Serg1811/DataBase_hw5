@@ -1,0 +1,190 @@
+{
+  "foreignrap": {
+    "id": "1",
+    "name": "'foreignrap'"
+  },
+  "rock": {
+    "id": "2",
+    "name": "'rock'"
+  },
+  "pop": {
+    "id": "3",
+    "name": "'pop'"
+  },
+  "jazz": {
+    "id": "4",
+    "name": "'jazz'"
+  },
+  "tradjazz": {
+    "id": "5",
+    "name": "'tradjazz'"
+  },
+  "classicmetal": {
+    "id": "6",
+    "name": "'classicmetal'"
+  },
+  "blues": {
+    "id": "7",
+    "name": "'blues'"
+  },
+  "shanson": {
+    "id": "8",
+    "name": "'shanson'"
+  },
+  "electronics": {
+    "id": "9",
+    "name": "'electronics'"
+  },
+  "disco": {
+    "id": "10",
+    "name": "'disco'"
+  },
+  "rusrap": {
+    "id": "11",
+    "name": "'rusrap'"
+  },
+  "folk": {
+    "id": "12",
+    "name": "'folk'"
+  },
+  "alternative": {
+    "id": "13",
+    "name": "'alternative'"
+  },
+  "rnb": {
+    "id": "14",
+    "name": "'rnb'"
+  },
+  "classical": {
+    "id": "15",
+    "name": "'classical'"
+  },
+  "classicalmasterpieces": {
+    "id": "16",
+    "name": "'classicalmasterpieces'"
+  },
+  "vocal": {
+    "id": "17",
+    "name": "'vocal'"
+  },
+  "soundtrack": {
+    "id": "18",
+    "name": "'soundtrack'"
+  },
+  "foreignbard": {
+    "id": "19",
+    "name": "'foreignbard'"
+  },
+  "modern": {
+    "id": "20",
+    "name": "'modern'"
+  },
+  "dance": {
+    "id": "21",
+    "name": "'dance'"
+  },
+  "estrada": {
+    "id": "22",
+    "name": "'estrada'"
+  },
+  "reggae": {
+    "id": "23",
+    "name": "'reggae'"
+  },
+  "relax": {
+    "id": "24",
+    "name": "'relax'"
+  },
+  "holiday": {
+    "id": "25",
+    "name": "'holiday'"
+  },
+  "hardrock": {
+    "id": "26",
+    "name": "'hardrock'"
+  },
+  "rusestrada": {
+    "id": "27",
+    "name": "'rusestrada'"
+  },
+  "rnr": {
+    "id": "28",
+    "name": "'rnr'"
+  },
+  "country": {
+    "id": "29",
+    "name": "'country'"
+  },
+  "indie": {
+    "id": "30",
+    "name": "'indie'"
+  },
+  "trance": {
+    "id": "31",
+    "name": "'trance'"
+  },
+  "ruspop": {
+    "id": "32",
+    "name": "'ruspop'"
+  },
+  "latinfolk": {
+    "id": "33",
+    "name": "'latinfolk'"
+  },
+  "conjazz": {
+    "id": "34",
+    "name": "'conjazz'"
+  },
+  "eurofolk": {
+    "id": "35",
+    "name": "'eurofolk'"
+  },
+  "films": {
+    "id": "36",
+    "name": "'films'"
+  },
+  "house": {
+    "id": "37",
+    "name": "'house'"
+  },
+  "fiction": {
+    "id": "38",
+    "name": "'fiction'"
+  },
+  "fairytales": {
+    "id": "39",
+    "name": "'fairytales'"
+  },
+  "forchildren": {
+    "id": "40",
+    "name": "'forchildren'"
+  },
+  "dubstep": {
+    "id": "41",
+    "name": "'dubstep'"
+  },
+  "techno": {
+    "id": "42",
+    "name": "'techno'"
+  },
+  "musical": {
+    "id": "43",
+    "name": "'musical'"
+  },
+  "newage": {
+    "id": "44",
+    "name": "'newage'"
+  },
+  "rap": {
+    "id": "45",
+    "name": "'rap'"
+  },
+  "soul": {
+    "id": "46",
+    "name": "'soul'"
+  },
+  "punk": {
+    "id": "47",
+    "name": "'punk'"
+  }
+}

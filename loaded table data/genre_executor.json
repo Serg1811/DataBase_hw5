@@ -1,0 +1,2318 @@
+{
+  "1|1053": {
+    "id_genre": "1",
+    "id_executor": "1053"
+  },
+  "2|5953": {
+    "id_genre": "2",
+    "id_executor": "5953"
+  },
+  "3|5953": {
+    "id_genre": "3",
+    "id_executor": "5953"
+  },
+  "4|2678": {
+    "id_genre": "4",
+    "id_executor": "2678"
+  },
+  "3|2678": {
+    "id_genre": "3",
+    "id_executor": "2678"
+  },
+  "5|2678": {
+    "id_genre": "5",
+    "id_executor": "2678"
+  },
+  "4|688": {
+    "id_genre": "4",
+    "id_executor": "688"
+  },
+  "3|688": {
+    "id_genre": "3",
+    "id_executor": "688"
+  },
+  "5|688": {
+    "id_genre": "5",
+    "id_executor": "688"
+  },
+  "6|3121": {
+    "id_genre": "6",
+    "id_executor": "3121"
+  },
+  "2|120349": {
+    "id_genre": "2",
+    "id_executor": "120349"
+  },
+  "7|120349": {
+    "id_genre": "7",
+    "id_executor": "120349"
+  },
+  "8|3418563": {
+    "id_genre": "8",
+    "id_executor": "3418563"
+  },
+  "3|329515": {
+    "id_genre": "3",
+    "id_executor": "329515"
+  },
+  "9|329515": {
+    "id_genre": "9",
+    "id_executor": "329515"
+  },
+  "10|329515": {
+    "id_genre": "10",
+    "id_executor": "329515"
+  },
+  "11|41191": {
+    "id_genre": "11",
+    "id_executor": "41191"
+  },
+  "12|2162974": {
+    "id_genre": "12",
+    "id_executor": "2162974"
+  },
+  "9|2162974": {
+    "id_genre": "9",
+    "id_executor": "2162974"
+  },
+  "8|218323": {
+    "id_genre": "8",
+    "id_executor": "218323"
+  },
+  "13|9262": {
+    "id_genre": "13",
+    "id_executor": "9262"
+  },
+  "2|9262": {
+    "id_genre": "2",
+    "id_executor": "9262"
+  },
+  "7|602": {
+    "id_genre": "7",
+    "id_executor": "602"
+  },
+  "14|602": {
+    "id_genre": "14",
+    "id_executor": "602"
+  },
+  "4|602": {
+    "id_genre": "4",
+    "id_executor": "602"
+  },
+  "15|58125": {
+    "id_genre": "15",
+    "id_executor": "58125"
+  },
+  "16|58125": {
+    "id_genre": "16",
+    "id_executor": "58125"
+  },
+  "17|58125": {
+    "id_genre": "17",
+    "id_executor": "58125"
+  },
+  "15|83312": {
+    "id_genre": "15",
+    "id_executor": "83312"
+  },
+  "16|83312": {
+    "id_genre": "16",
+    "id_executor": "83312"
+  },
+  "3|83312": {
+    "id_genre": "3",
+    "id_executor": "83312"
+  },
+  "15|1027152": {
+    "id_genre": "15",
+    "id_executor": "1027152"
+  },
+  "18|1027152": {
+    "id_genre": "18",
+    "id_executor": "1027152"
+  },
+  "12|1027152": {
+    "id_genre": "12",
+    "id_executor": "1027152"
+  },
+  "13|29": {
+    "id_genre": "13",
+    "id_executor": "29"
+  },
+  "14|3593": {
+    "id_genre": "14",
+    "id_executor": "3593"
+  },
+  "7|3593": {
+    "id_genre": "7",
+    "id_executor": "3593"
+  },
+  "4|3593": {
+    "id_genre": "4",
+    "id_executor": "3593"
+  },
+  "7|4104452": {
+    "id_genre": "7",
+    "id_executor": "4104452"
+  },
+  "3|4104452": {
+    "id_genre": "3",
+    "id_executor": "4104452"
+  },
+  "2|4104452": {
+    "id_genre": "2",
+    "id_executor": "4104452"
+  },
+  "3|16": {
+    "id_genre": "3",
+    "id_executor": "16"
+  },
+  "12|16": {
+    "id_genre": "12",
+    "id_executor": "16"
+  },
+  "19|16": {
+    "id_genre": "19",
+    "id_executor": "16"
+  },
+  "15|113893": {
+    "id_genre": "15",
+    "id_executor": "113893"
+  },
+  "16|113893": {
+    "id_genre": "16",
+    "id_executor": "113893"
+  },
+  "20|113893": {
+    "id_genre": "20",
+    "id_executor": "113893"
+  },
+  "15|113892": {
+    "id_genre": "15",
+    "id_executor": "113892"
+  },
+  "16|113892": {
+    "id_genre": "16",
+    "id_executor": "113892"
+  },
+  "15|5980": {
+    "id_genre": "15",
+    "id_executor": "5980"
+  },
+  "16|5980": {
+    "id_genre": "16",
+    "id_executor": "5980"
+  },
+  "20|5980": {
+    "id_genre": "20",
+    "id_executor": "5980"
+  },
+  "15|83785": {
+    "id_genre": "15",
+    "id_executor": "83785"
+  },
+  "16|83785": {
+    "id_genre": "16",
+    "id_executor": "83785"
+  },
+  "17|83785": {
+    "id_genre": "17",
+    "id_executor": "83785"
+  },
+  "15|10155": {
+    "id_genre": "15",
+    "id_executor": "10155"
+  },
+  "16|10155": {
+    "id_genre": "16",
+    "id_executor": "10155"
+  },
+  "3|10155": {
+    "id_genre": "3",
+    "id_executor": "10155"
+  },
+  "16|107517": {
+    "id_genre": "16",
+    "id_executor": "107517"
+  },
+  "15|107517": {
+    "id_genre": "15",
+    "id_executor": "107517"
+  },
+  "17|107517": {
+    "id_genre": "17",
+    "id_executor": "107517"
+  },
+  "15|8822": {
+    "id_genre": "15",
+    "id_executor": "8822"
+  },
+  "17|8822": {
+    "id_genre": "17",
+    "id_executor": "8822"
+  },
+  "16|8822": {
+    "id_genre": "16",
+    "id_executor": "8822"
+  },
+  "21|472199": {
+    "id_genre": "21",
+    "id_executor": "472199"
+  },
+  "3|472199": {
+    "id_genre": "3",
+    "id_executor": "472199"
+  },
+  "22|472199": {
+    "id_genre": "22",
+    "id_executor": "472199"
+  },
+  "1|8928": {
+    "id_genre": "1",
+    "id_executor": "8928"
+  },
+  "23|8928": {
+    "id_genre": "23",
+    "id_executor": "8928"
+  },
+  "19|8928": {
+    "id_genre": "19",
+    "id_executor": "8928"
+  },
+  "21|197174": {
+    "id_genre": "21",
+    "id_executor": "197174"
+  },
+  "12|197174": {
+    "id_genre": "12",
+    "id_executor": "197174"
+  },
+  "1|197174": {
+    "id_genre": "1",
+    "id_executor": "197174"
+  },
+  "24|5378979": {
+    "id_genre": "24",
+    "id_executor": "5378979"
+  },
+  "25|5378979": {
+    "id_genre": "25",
+    "id_executor": "5378979"
+  },
+  "9|5378979": {
+    "id_genre": "9",
+    "id_executor": "5378979"
+  },
+  "15|72050": {
+    "id_genre": "15",
+    "id_executor": "72050"
+  },
+  "16|72050": {
+    "id_genre": "16",
+    "id_executor": "72050"
+  },
+  "15|6645": {
+    "id_genre": "15",
+    "id_executor": "6645"
+  },
+  "16|6645": {
+    "id_genre": "16",
+    "id_executor": "6645"
+  },
+  "3|6645": {
+    "id_genre": "3",
+    "id_executor": "6645"
+  },
+  "26|9": {
+    "id_genre": "26",
+    "id_executor": "9"
+  },
+  "27|2431769": {
+    "id_genre": "27",
+    "id_executor": "2431769"
+  },
+  "2|9347": {
+    "id_genre": "2",
+    "id_executor": "9347"
+  },
+  "7|9347": {
+    "id_genre": "7",
+    "id_executor": "9347"
+  },
+  "28|9347": {
+    "id_genre": "28",
+    "id_executor": "9347"
+  },
+  "15|144029": {
+    "id_genre": "15",
+    "id_executor": "144029"
+  },
+  "16|144029": {
+    "id_genre": "16",
+    "id_executor": "144029"
+  },
+  "20|144029": {
+    "id_genre": "20",
+    "id_executor": "144029"
+  },
+  "15|8125": {
+    "id_genre": "15",
+    "id_executor": "8125"
+  },
+  "17|8125": {
+    "id_genre": "17",
+    "id_executor": "8125"
+  },
+  "16|8125": {
+    "id_genre": "16",
+    "id_executor": "8125"
+  },
+  "15|1470289": {
+    "id_genre": "15",
+    "id_executor": "1470289"
+  },
+  "15|1491": {
+    "id_genre": "15",
+    "id_executor": "1491"
+  },
+  "16|1491": {
+    "id_genre": "16",
+    "id_executor": "1491"
+  },
+  "3|1491": {
+    "id_genre": "3",
+    "id_executor": "1491"
+  },
+  "27|2632523": {
+    "id_genre": "27",
+    "id_executor": "2632523"
+  },
+  "27|137928": {
+    "id_genre": "27",
+    "id_executor": "137928"
+  },
+  "12|26": {
+    "id_genre": "12",
+    "id_executor": "26"
+  },
+  "3|26": {
+    "id_genre": "3",
+    "id_executor": "26"
+  },
+  "29|26": {
+    "id_genre": "29",
+    "id_executor": "26"
+  },
+  "8|42483": {
+    "id_genre": "8",
+    "id_executor": "42483"
+  },
+  "27|359980": {
+    "id_genre": "27",
+    "id_executor": "359980"
+  },
+  "12|2632512": {
+    "id_genre": "12",
+    "id_executor": "2632512"
+  },
+  "15|2632512": {
+    "id_genre": "15",
+    "id_executor": "2632512"
+  },
+  "3|2632512": {
+    "id_genre": "3",
+    "id_executor": "2632512"
+  },
+  "15|28523": {
+    "id_genre": "15",
+    "id_executor": "28523"
+  },
+  "15|83202": {
+    "id_genre": "15",
+    "id_executor": "83202"
+  },
+  "16|83202": {
+    "id_genre": "16",
+    "id_executor": "83202"
+  },
+  "17|83202": {
+    "id_genre": "17",
+    "id_executor": "83202"
+  },
+  "15|9170": {
+    "id_genre": "15",
+    "id_executor": "9170"
+  },
+  "16|1128857": {
+    "id_genre": "16",
+    "id_executor": "1128857"
+  },
+  "15|1128857": {
+    "id_genre": "15",
+    "id_executor": "1128857"
+  },
+  "15|83835": {
+    "id_genre": "15",
+    "id_executor": "83835"
+  },
+  "16|83835": {
+    "id_genre": "16",
+    "id_executor": "83835"
+  },
+  "17|83835": {
+    "id_genre": "17",
+    "id_executor": "83835"
+  },
+  "15|4074": {
+    "id_genre": "15",
+    "id_executor": "4074"
+  },
+  "17|4074": {
+    "id_genre": "17",
+    "id_executor": "4074"
+  },
+  "16|4074": {
+    "id_genre": "16",
+    "id_executor": "4074"
+  },
+  "27|413023": {
+    "id_genre": "27",
+    "id_executor": "413023"
+  },
+  "27|3812092": {
+    "id_genre": "27",
+    "id_executor": "3812092"
+  },
+  "8|2661092": {
+    "id_genre": "8",
+    "id_executor": "2661092"
+  },
+  "30|36791": {
+    "id_genre": "30",
+    "id_executor": "36791"
+  },
+  "30|36817": {
+    "id_genre": "30",
+    "id_executor": "36817"
+  },
+  "3|189678": {
+    "id_genre": "3",
+    "id_executor": "189678"
+  },
+  "21|189678": {
+    "id_genre": "21",
+    "id_executor": "189678"
+  },
+  "9|189678": {
+    "id_genre": "9",
+    "id_executor": "189678"
+  },
+  "8|218250": {
+    "id_genre": "8",
+    "id_executor": "218250"
+  },
+  "27|165131": {
+    "id_genre": "27",
+    "id_executor": "165131"
+  },
+  "21|131890": {
+    "id_genre": "21",
+    "id_executor": "131890"
+  },
+  "31|131890": {
+    "id_genre": "31",
+    "id_executor": "131890"
+  },
+  "9|131890": {
+    "id_genre": "9",
+    "id_executor": "131890"
+  },
+  "27|3090319": {
+    "id_genre": "27",
+    "id_executor": "3090319"
+  },
+  "27|3675039": {
+    "id_genre": "27",
+    "id_executor": "3675039"
+  },
+  "32|3675039": {
+    "id_genre": "32",
+    "id_executor": "3675039"
+  },
+  "7|3099": {
+    "id_genre": "7",
+    "id_executor": "3099"
+  },
+  "4|3099": {
+    "id_genre": "4",
+    "id_executor": "3099"
+  },
+  "14|3099": {
+    "id_genre": "14",
+    "id_executor": "3099"
+  },
+  "8|42607": {
+    "id_genre": "8",
+    "id_executor": "42607"
+  },
+  "4|776": {
+    "id_genre": "4",
+    "id_executor": "776"
+  },
+  "5|33": {
+    "id_genre": "5",
+    "id_executor": "33"
+  },
+  "13|1404": {
+    "id_genre": "13",
+    "id_executor": "1404"
+  },
+  "12|430148": {
+    "id_genre": "12",
+    "id_executor": "430148"
+  },
+  "15|83201": {
+    "id_genre": "15",
+    "id_executor": "83201"
+  },
+  "16|83201": {
+    "id_genre": "16",
+    "id_executor": "83201"
+  },
+  "17|83201": {
+    "id_genre": "17",
+    "id_executor": "83201"
+  },
+  "15|304410": {
+    "id_genre": "15",
+    "id_executor": "304410"
+  },
+  "16|304410": {
+    "id_genre": "16",
+    "id_executor": "304410"
+  },
+  "17|304410": {
+    "id_genre": "17",
+    "id_executor": "304410"
+  },
+  "15|7080": {
+    "id_genre": "15",
+    "id_executor": "7080"
+  },
+  "3|7080": {
+    "id_genre": "3",
+    "id_executor": "7080"
+  },
+  "17|7080": {
+    "id_genre": "17",
+    "id_executor": "7080"
+  },
+  "3|35400": {
+    "id_genre": "3",
+    "id_executor": "35400"
+  },
+  "9|35400": {
+    "id_genre": "9",
+    "id_executor": "35400"
+  },
+  "21|35400": {
+    "id_genre": "21",
+    "id_executor": "35400"
+  },
+  "8|42586": {
+    "id_genre": "8",
+    "id_executor": "42586"
+  },
+  "27|1120272": {
+    "id_genre": "27",
+    "id_executor": "1120272"
+  },
+  "4|2976": {
+    "id_genre": "4",
+    "id_executor": "2976"
+  },
+  "5|2976": {
+    "id_genre": "5",
+    "id_executor": "2976"
+  },
+  "3|2976": {
+    "id_genre": "3",
+    "id_executor": "2976"
+  },
+  "33|7539": {
+    "id_genre": "33",
+    "id_executor": "7539"
+  },
+  "4|7539": {
+    "id_genre": "4",
+    "id_executor": "7539"
+  },
+  "3|7539": {
+    "id_genre": "3",
+    "id_executor": "7539"
+  },
+  "4|3140": {
+    "id_genre": "4",
+    "id_executor": "3140"
+  },
+  "33|3140": {
+    "id_genre": "33",
+    "id_executor": "3140"
+  },
+  "3|3140": {
+    "id_genre": "3",
+    "id_executor": "3140"
+  },
+  "4|5": {
+    "id_genre": "4",
+    "id_executor": "5"
+  },
+  "3|5": {
+    "id_genre": "3",
+    "id_executor": "5"
+  },
+  "14|5": {
+    "id_genre": "14",
+    "id_executor": "5"
+  },
+  "2|170942": {
+    "id_genre": "2",
+    "id_executor": "170942"
+  },
+  "29|170942": {
+    "id_genre": "29",
+    "id_executor": "170942"
+  },
+  "12|170942": {
+    "id_genre": "12",
+    "id_executor": "170942"
+  },
+  "8|218230": {
+    "id_genre": "8",
+    "id_executor": "218230"
+  },
+  "4|2885": {
+    "id_genre": "4",
+    "id_executor": "2885"
+  },
+  "3|2885": {
+    "id_genre": "3",
+    "id_executor": "2885"
+  },
+  "34|2885": {
+    "id_genre": "34",
+    "id_executor": "2885"
+  },
+  "15|112916": {
+    "id_genre": "15",
+    "id_executor": "112916"
+  },
+  "17|112916": {
+    "id_genre": "17",
+    "id_executor": "112916"
+  },
+  "16|112916": {
+    "id_genre": "16",
+    "id_executor": "112916"
+  },
+  "15|294003": {
+    "id_genre": "15",
+    "id_executor": "294003"
+  },
+  "16|294003": {
+    "id_genre": "16",
+    "id_executor": "294003"
+  },
+  "25|294003": {
+    "id_genre": "25",
+    "id_executor": "294003"
+  },
+  "15|8814": {
+    "id_genre": "15",
+    "id_executor": "8814"
+  },
+  "17|8814": {
+    "id_genre": "17",
+    "id_executor": "8814"
+  },
+  "4|8814": {
+    "id_genre": "4",
+    "id_executor": "8814"
+  },
+  "7|423": {
+    "id_genre": "7",
+    "id_executor": "423"
+  },
+  "4|423": {
+    "id_genre": "4",
+    "id_executor": "423"
+  },
+  "14|423": {
+    "id_genre": "14",
+    "id_executor": "423"
+  },
+  "15|222458": {
+    "id_genre": "15",
+    "id_executor": "222458"
+  },
+  "16|222458": {
+    "id_genre": "16",
+    "id_executor": "222458"
+  },
+  "20|222458": {
+    "id_genre": "20",
+    "id_executor": "222458"
+  },
+  "15|83208": {
+    "id_genre": "15",
+    "id_executor": "83208"
+  },
+  "16|83208": {
+    "id_genre": "16",
+    "id_executor": "83208"
+  },
+  "35|83208": {
+    "id_genre": "35",
+    "id_executor": "83208"
+  },
+  "15|60705": {
+    "id_genre": "15",
+    "id_executor": "60705"
+  },
+  "16|60705": {
+    "id_genre": "16",
+    "id_executor": "60705"
+  },
+  "36|60705": {
+    "id_genre": "36",
+    "id_executor": "60705"
+  },
+  "15|11099": {
+    "id_genre": "15",
+    "id_executor": "11099"
+  },
+  "17|11099": {
+    "id_genre": "17",
+    "id_executor": "11099"
+  },
+  "16|11099": {
+    "id_genre": "16",
+    "id_executor": "11099"
+  },
+  "15|391867": {
+    "id_genre": "15",
+    "id_executor": "391867"
+  },
+  "16|391867": {
+    "id_genre": "16",
+    "id_executor": "391867"
+  },
+  "17|391867": {
+    "id_genre": "17",
+    "id_executor": "391867"
+  },
+  "15|300730": {
+    "id_genre": "15",
+    "id_executor": "300730"
+  },
+  "16|300730": {
+    "id_genre": "16",
+    "id_executor": "300730"
+  },
+  "17|300730": {
+    "id_genre": "17",
+    "id_executor": "300730"
+  },
+  "15|73709": {
+    "id_genre": "15",
+    "id_executor": "73709"
+  },
+  "3|73709": {
+    "id_genre": "3",
+    "id_executor": "73709"
+  },
+  "1|73709": {
+    "id_genre": "1",
+    "id_executor": "73709"
+  },
+  "15|212713": {
+    "id_genre": "15",
+    "id_executor": "212713"
+  },
+  "12|212713": {
+    "id_genre": "12",
+    "id_executor": "212713"
+  },
+  "36|212713": {
+    "id_genre": "36",
+    "id_executor": "212713"
+  },
+  "15|4060498": {
+    "id_genre": "15",
+    "id_executor": "4060498"
+  },
+  "15|1295200": {
+    "id_genre": "15",
+    "id_executor": "1295200"
+  },
+  "20|1295200": {
+    "id_genre": "20",
+    "id_executor": "1295200"
+  },
+  "21|631884": {
+    "id_genre": "21",
+    "id_executor": "631884"
+  },
+  "37|631884": {
+    "id_genre": "37",
+    "id_executor": "631884"
+  },
+  "13|631884": {
+    "id_genre": "13",
+    "id_executor": "631884"
+  },
+  "27|302220": {
+    "id_genre": "27",
+    "id_executor": "302220"
+  },
+  "27|391868": {
+    "id_genre": "27",
+    "id_executor": "391868"
+  },
+  "27|233560": {
+    "id_genre": "27",
+    "id_executor": "233560"
+  },
+  "15|83197": {
+    "id_genre": "15",
+    "id_executor": "83197"
+  },
+  "16|83197": {
+    "id_genre": "16",
+    "id_executor": "83197"
+  },
+  "3|83197": {
+    "id_genre": "3",
+    "id_executor": "83197"
+  },
+  "15|5987": {
+    "id_genre": "15",
+    "id_executor": "5987"
+  },
+  "16|5987": {
+    "id_genre": "16",
+    "id_executor": "5987"
+  },
+  "20|5987": {
+    "id_genre": "20",
+    "id_executor": "5987"
+  },
+  "15|62696": {
+    "id_genre": "15",
+    "id_executor": "62696"
+  },
+  "16|62696": {
+    "id_genre": "16",
+    "id_executor": "62696"
+  },
+  "15|12712": {
+    "id_genre": "15",
+    "id_executor": "12712"
+  },
+  "16|12712": {
+    "id_genre": "16",
+    "id_executor": "12712"
+  },
+  "12|12712": {
+    "id_genre": "12",
+    "id_executor": "12712"
+  },
+  "32|233564": {
+    "id_genre": "32",
+    "id_executor": "233564"
+  },
+  "27|1158149": {
+    "id_genre": "27",
+    "id_executor": "1158149"
+  },
+  "15|385981": {
+    "id_genre": "15",
+    "id_executor": "385981"
+  },
+  "16|385981": {
+    "id_genre": "16",
+    "id_executor": "385981"
+  },
+  "17|385981": {
+    "id_genre": "17",
+    "id_executor": "385981"
+  },
+  "15|443192": {
+    "id_genre": "15",
+    "id_executor": "443192"
+  },
+  "17|443192": {
+    "id_genre": "17",
+    "id_executor": "443192"
+  },
+  "16|443192": {
+    "id_genre": "16",
+    "id_executor": "443192"
+  },
+  "3|353868": {
+    "id_genre": "3",
+    "id_executor": "353868"
+  },
+  "21|353868": {
+    "id_genre": "21",
+    "id_executor": "353868"
+  },
+  "31|353868": {
+    "id_genre": "31",
+    "id_executor": "353868"
+  },
+  "1|20995": {
+    "id_genre": "1",
+    "id_executor": "20995"
+  },
+  "3|20995": {
+    "id_genre": "3",
+    "id_executor": "20995"
+  },
+  "9|20995": {
+    "id_genre": "9",
+    "id_executor": "20995"
+  },
+  "26|4672": {
+    "id_genre": "26",
+    "id_executor": "4672"
+  },
+  "2|4672": {
+    "id_genre": "2",
+    "id_executor": "4672"
+  },
+  "4|1826": {
+    "id_genre": "4",
+    "id_executor": "1826"
+  },
+  "5|1826": {
+    "id_genre": "5",
+    "id_executor": "1826"
+  },
+  "3|1826": {
+    "id_genre": "3",
+    "id_executor": "1826"
+  },
+  "15|72625": {
+    "id_genre": "15",
+    "id_executor": "72625"
+  },
+  "16|72625": {
+    "id_genre": "16",
+    "id_executor": "72625"
+  },
+  "17|72625": {
+    "id_genre": "17",
+    "id_executor": "72625"
+  },
+  "15|10673": {
+    "id_genre": "15",
+    "id_executor": "10673"
+  },
+  "17|10673": {
+    "id_genre": "17",
+    "id_executor": "10673"
+  },
+  "3|10673": {
+    "id_genre": "3",
+    "id_executor": "10673"
+  },
+  "27|418399": {
+    "id_genre": "27",
+    "id_executor": "418399"
+  },
+  "4|228235": {
+    "id_genre": "4",
+    "id_executor": "228235"
+  },
+  "3|228235": {
+    "id_genre": "3",
+    "id_executor": "228235"
+  },
+  "14|228235": {
+    "id_genre": "14",
+    "id_executor": "228235"
+  },
+  "8|218247": {
+    "id_genre": "8",
+    "id_executor": "218247"
+  },
+  "15|433820": {
+    "id_genre": "15",
+    "id_executor": "433820"
+  },
+  "16|433820": {
+    "id_genre": "16",
+    "id_executor": "433820"
+  },
+  "17|433820": {
+    "id_genre": "17",
+    "id_executor": "433820"
+  },
+  "16|127099": {
+    "id_genre": "16",
+    "id_executor": "127099"
+  },
+  "15|127099": {
+    "id_genre": "15",
+    "id_executor": "127099"
+  },
+  "15|10672": {
+    "id_genre": "15",
+    "id_executor": "10672"
+  },
+  "16|10672": {
+    "id_genre": "16",
+    "id_executor": "10672"
+  },
+  "3|10672": {
+    "id_genre": "3",
+    "id_executor": "10672"
+  },
+  "38|233562": {
+    "id_genre": "38",
+    "id_executor": "233562"
+  },
+  "36|233562": {
+    "id_genre": "36",
+    "id_executor": "233562"
+  },
+  "12|233562": {
+    "id_genre": "12",
+    "id_executor": "233562"
+  },
+  "4|4018": {
+    "id_genre": "4",
+    "id_executor": "4018"
+  },
+  "14|4018": {
+    "id_genre": "14",
+    "id_executor": "4018"
+  },
+  "3|4018": {
+    "id_genre": "3",
+    "id_executor": "4018"
+  },
+  "15|7046": {
+    "id_genre": "15",
+    "id_executor": "7046"
+  },
+  "20|7046": {
+    "id_genre": "20",
+    "id_executor": "7046"
+  },
+  "16|7046": {
+    "id_genre": "16",
+    "id_executor": "7046"
+  },
+  "15|10679": {
+    "id_genre": "15",
+    "id_executor": "10679"
+  },
+  "16|10679": {
+    "id_genre": "16",
+    "id_executor": "10679"
+  },
+  "4|10679": {
+    "id_genre": "4",
+    "id_executor": "10679"
+  },
+  "12|3869134": {
+    "id_genre": "12",
+    "id_executor": "3869134"
+  },
+  "39|169002": {
+    "id_genre": "39",
+    "id_executor": "169002"
+  },
+  "27|169002": {
+    "id_genre": "27",
+    "id_executor": "169002"
+  },
+  "40|169002": {
+    "id_genre": "40",
+    "id_executor": "169002"
+  },
+  "3|123162": {
+    "id_genre": "3",
+    "id_executor": "123162"
+  },
+  "21|123162": {
+    "id_genre": "21",
+    "id_executor": "123162"
+  },
+  "19|123162": {
+    "id_genre": "19",
+    "id_executor": "123162"
+  },
+  "8|4131043": {
+    "id_genre": "8",
+    "id_executor": "4131043"
+  },
+  "15|18281": {
+    "id_genre": "15",
+    "id_executor": "18281"
+  },
+  "16|18281": {
+    "id_genre": "16",
+    "id_executor": "18281"
+  },
+  "3|18281": {
+    "id_genre": "3",
+    "id_executor": "18281"
+  },
+  "15|1227": {
+    "id_genre": "15",
+    "id_executor": "1227"
+  },
+  "16|1227": {
+    "id_genre": "16",
+    "id_executor": "1227"
+  },
+  "4|1227": {
+    "id_genre": "4",
+    "id_executor": "1227"
+  },
+  "21|191590": {
+    "id_genre": "21",
+    "id_executor": "191590"
+  },
+  "3|191590": {
+    "id_genre": "3",
+    "id_executor": "191590"
+  },
+  "9|191590": {
+    "id_genre": "9",
+    "id_executor": "191590"
+  },
+  "7|19780": {
+    "id_genre": "7",
+    "id_executor": "19780"
+  },
+  "2|19780": {
+    "id_genre": "2",
+    "id_executor": "19780"
+  },
+  "3|19780": {
+    "id_genre": "3",
+    "id_executor": "19780"
+  },
+  "15|100122": {
+    "id_genre": "15",
+    "id_executor": "100122"
+  },
+  "16|100122": {
+    "id_genre": "16",
+    "id_executor": "100122"
+  },
+  "4|100122": {
+    "id_genre": "4",
+    "id_executor": "100122"
+  },
+  "15|63450": {
+    "id_genre": "15",
+    "id_executor": "63450"
+  },
+  "16|63450": {
+    "id_genre": "16",
+    "id_executor": "63450"
+  },
+  "4|63450": {
+    "id_genre": "4",
+    "id_executor": "63450"
+  },
+  "7|232802": {
+    "id_genre": "7",
+    "id_executor": "232802"
+  },
+  "12|232802": {
+    "id_genre": "12",
+    "id_executor": "232802"
+  },
+  "14|232802": {
+    "id_genre": "14",
+    "id_executor": "232802"
+  },
+  "41|525597": {
+    "id_genre": "41",
+    "id_executor": "525597"
+  },
+  "9|525597": {
+    "id_genre": "9",
+    "id_executor": "525597"
+  },
+  "1|525597": {
+    "id_genre": "1",
+    "id_executor": "525597"
+  },
+  "32|2940713": {
+    "id_genre": "32",
+    "id_executor": "2940713"
+  },
+  "3|2940713": {
+    "id_genre": "3",
+    "id_executor": "2940713"
+  },
+  "15|1551": {
+    "id_genre": "15",
+    "id_executor": "1551"
+  },
+  "7|11669": {
+    "id_genre": "7",
+    "id_executor": "11669"
+  },
+  "4|11669": {
+    "id_genre": "4",
+    "id_executor": "11669"
+  },
+  "3|11669": {
+    "id_genre": "3",
+    "id_executor": "11669"
+  },
+  "15|93118": {
+    "id_genre": "15",
+    "id_executor": "93118"
+  },
+  "3|93118": {
+    "id_genre": "3",
+    "id_executor": "93118"
+  },
+  "16|93118": {
+    "id_genre": "16",
+    "id_executor": "93118"
+  },
+  "32|1554548": {
+    "id_genre": "32",
+    "id_executor": "1554548"
+  },
+  "2|6621": {
+    "id_genre": "2",
+    "id_executor": "6621"
+  },
+  "3|6621": {
+    "id_genre": "3",
+    "id_executor": "6621"
+  },
+  "7|6621": {
+    "id_genre": "7",
+    "id_executor": "6621"
+  },
+  "8|670113": {
+    "id_genre": "8",
+    "id_executor": "670113"
+  },
+  "4|4058": {
+    "id_genre": "4",
+    "id_executor": "4058"
+  },
+  "5|4058": {
+    "id_genre": "5",
+    "id_executor": "4058"
+  },
+  "3|4058": {
+    "id_genre": "3",
+    "id_executor": "4058"
+  },
+  "9|3697829": {
+    "id_genre": "9",
+    "id_executor": "3697829"
+  },
+  "42|3697829": {
+    "id_genre": "42",
+    "id_executor": "3697829"
+  },
+  "42|631970": {
+    "id_genre": "42",
+    "id_executor": "631970"
+  },
+  "9|631970": {
+    "id_genre": "9",
+    "id_executor": "631970"
+  },
+  "37|631970": {
+    "id_genre": "37",
+    "id_executor": "631970"
+  },
+  "4|6577760": {
+    "id_genre": "4",
+    "id_executor": "6577760"
+  },
+  "7|6577760": {
+    "id_genre": "7",
+    "id_executor": "6577760"
+  },
+  "3|6577760": {
+    "id_genre": "3",
+    "id_executor": "6577760"
+  },
+  "15|556582": {
+    "id_genre": "15",
+    "id_executor": "556582"
+  },
+  "16|556582": {
+    "id_genre": "16",
+    "id_executor": "556582"
+  },
+  "15|22233": {
+    "id_genre": "15",
+    "id_executor": "22233"
+  },
+  "7|22416": {
+    "id_genre": "7",
+    "id_executor": "22416"
+  },
+  "3|22416": {
+    "id_genre": "3",
+    "id_executor": "22416"
+  },
+  "4|22416": {
+    "id_genre": "4",
+    "id_executor": "22416"
+  },
+  "15|308158": {
+    "id_genre": "15",
+    "id_executor": "308158"
+  },
+  "17|308158": {
+    "id_genre": "17",
+    "id_executor": "308158"
+  },
+  "16|308158": {
+    "id_genre": "16",
+    "id_executor": "308158"
+  },
+  "15|83851": {
+    "id_genre": "15",
+    "id_executor": "83851"
+  },
+  "20|83851": {
+    "id_genre": "20",
+    "id_executor": "83851"
+  },
+  "16|83851": {
+    "id_genre": "16",
+    "id_executor": "83851"
+  },
+  "15|1149794": {
+    "id_genre": "15",
+    "id_executor": "1149794"
+  },
+  "15|24620": {
+    "id_genre": "15",
+    "id_executor": "24620"
+  },
+  "16|24620": {
+    "id_genre": "16",
+    "id_executor": "24620"
+  },
+  "43|24620": {
+    "id_genre": "43",
+    "id_executor": "24620"
+  },
+  "15|2698": {
+    "id_genre": "15",
+    "id_executor": "2698"
+  },
+  "16|2698": {
+    "id_genre": "16",
+    "id_executor": "2698"
+  },
+  "4|2698": {
+    "id_genre": "4",
+    "id_executor": "2698"
+  },
+  "15|28401": {
+    "id_genre": "15",
+    "id_executor": "28401"
+  },
+  "16|28401": {
+    "id_genre": "16",
+    "id_executor": "28401"
+  },
+  "17|28401": {
+    "id_genre": "17",
+    "id_executor": "28401"
+  },
+  "4|4569": {
+    "id_genre": "4",
+    "id_executor": "4569"
+  },
+  "7|4569": {
+    "id_genre": "7",
+    "id_executor": "4569"
+  },
+  "3|4569": {
+    "id_genre": "3",
+    "id_executor": "4569"
+  },
+  "2|2433445": {
+    "id_genre": "2",
+    "id_executor": "2433445"
+  },
+  "26|2433445": {
+    "id_genre": "26",
+    "id_executor": "2433445"
+  },
+  "3|2433445": {
+    "id_genre": "3",
+    "id_executor": "2433445"
+  },
+  "15|59589": {
+    "id_genre": "15",
+    "id_executor": "59589"
+  },
+  "16|59589": {
+    "id_genre": "16",
+    "id_executor": "59589"
+  },
+  "17|59589": {
+    "id_genre": "17",
+    "id_executor": "59589"
+  },
+  "15|1831": {
+    "id_genre": "15",
+    "id_executor": "1831"
+  },
+  "16|1831": {
+    "id_genre": "16",
+    "id_executor": "1831"
+  },
+  "3|1831": {
+    "id_genre": "3",
+    "id_executor": "1831"
+  },
+  "15|1031539": {
+    "id_genre": "15",
+    "id_executor": "1031539"
+  },
+  "16|1031539": {
+    "id_genre": "16",
+    "id_executor": "1031539"
+  },
+  "25|1031539": {
+    "id_genre": "25",
+    "id_executor": "1031539"
+  },
+  "15|8815": {
+    "id_genre": "15",
+    "id_executor": "8815"
+  },
+  "16|8815": {
+    "id_genre": "16",
+    "id_executor": "8815"
+  },
+  "20|8815": {
+    "id_genre": "20",
+    "id_executor": "8815"
+  },
+  "4|3239": {
+    "id_genre": "4",
+    "id_executor": "3239"
+  },
+  "5|3239": {
+    "id_genre": "5",
+    "id_executor": "3239"
+  },
+  "3|3239": {
+    "id_genre": "3",
+    "id_executor": "3239"
+  },
+  "15|1237931": {
+    "id_genre": "15",
+    "id_executor": "1237931"
+  },
+  "16|1237931": {
+    "id_genre": "16",
+    "id_executor": "1237931"
+  },
+  "15|1494228": {
+    "id_genre": "15",
+    "id_executor": "1494228"
+  },
+  "15|127103": {
+    "id_genre": "15",
+    "id_executor": "127103"
+  },
+  "16|127103": {
+    "id_genre": "16",
+    "id_executor": "127103"
+  },
+  "25|127103": {
+    "id_genre": "25",
+    "id_executor": "127103"
+  },
+  "15|118255": {
+    "id_genre": "15",
+    "id_executor": "118255"
+  },
+  "14|118255": {
+    "id_genre": "14",
+    "id_executor": "118255"
+  },
+  "16|118255": {
+    "id_genre": "16",
+    "id_executor": "118255"
+  },
+  "4|36168": {
+    "id_genre": "4",
+    "id_executor": "36168"
+  },
+  "3|36168": {
+    "id_genre": "3",
+    "id_executor": "36168"
+  },
+  "17|36168": {
+    "id_genre": "17",
+    "id_executor": "36168"
+  },
+  "15|1581171": {
+    "id_genre": "15",
+    "id_executor": "1581171"
+  },
+  "15|310257": {
+    "id_genre": "15",
+    "id_executor": "310257"
+  },
+  "16|310257": {
+    "id_genre": "16",
+    "id_executor": "310257"
+  },
+  "4|310257": {
+    "id_genre": "4",
+    "id_executor": "310257"
+  },
+  "15|313403": {
+    "id_genre": "15",
+    "id_executor": "313403"
+  },
+  "16|313403": {
+    "id_genre": "16",
+    "id_executor": "313403"
+  },
+  "20|313403": {
+    "id_genre": "20",
+    "id_executor": "313403"
+  },
+  "15|8829": {
+    "id_genre": "15",
+    "id_executor": "8829"
+  },
+  "17|8829": {
+    "id_genre": "17",
+    "id_executor": "8829"
+  },
+  "16|8829": {
+    "id_genre": "16",
+    "id_executor": "8829"
+  },
+  "7|4916": {
+    "id_genre": "7",
+    "id_executor": "4916"
+  },
+  "4|938": {
+    "id_genre": "4",
+    "id_executor": "938"
+  },
+  "14|938": {
+    "id_genre": "14",
+    "id_executor": "938"
+  },
+  "3|938": {
+    "id_genre": "3",
+    "id_executor": "938"
+  },
+  "21|631879": {
+    "id_genre": "21",
+    "id_executor": "631879"
+  },
+  "1|631879": {
+    "id_genre": "1",
+    "id_executor": "631879"
+  },
+  "31|631879": {
+    "id_genre": "31",
+    "id_executor": "631879"
+  },
+  "13|3294769": {
+    "id_genre": "13",
+    "id_executor": "3294769"
+  },
+  "21|36727": {
+    "id_genre": "21",
+    "id_executor": "36727"
+  },
+  "2|36727": {
+    "id_genre": "2",
+    "id_executor": "36727"
+  },
+  "9|36727": {
+    "id_genre": "9",
+    "id_executor": "36727"
+  },
+  "4|34": {
+    "id_genre": "4",
+    "id_executor": "34"
+  },
+  "36|34": {
+    "id_genre": "36",
+    "id_executor": "34"
+  },
+  "5|34": {
+    "id_genre": "5",
+    "id_executor": "34"
+  },
+  "15|400344": {
+    "id_genre": "15",
+    "id_executor": "400344"
+  },
+  "15|83237": {
+    "id_genre": "15",
+    "id_executor": "83237"
+  },
+  "16|83237": {
+    "id_genre": "16",
+    "id_executor": "83237"
+  },
+  "17|83237": {
+    "id_genre": "17",
+    "id_executor": "83237"
+  },
+  "15|434889": {
+    "id_genre": "15",
+    "id_executor": "434889"
+  },
+  "16|434889": {
+    "id_genre": "16",
+    "id_executor": "434889"
+  },
+  "17|434889": {
+    "id_genre": "17",
+    "id_executor": "434889"
+  },
+  "15|662377": {
+    "id_genre": "15",
+    "id_executor": "662377"
+  },
+  "16|662377": {
+    "id_genre": "16",
+    "id_executor": "662377"
+  },
+  "17|662377": {
+    "id_genre": "17",
+    "id_executor": "662377"
+  },
+  "21|316593": {
+    "id_genre": "21",
+    "id_executor": "316593"
+  },
+  "31|316593": {
+    "id_genre": "31",
+    "id_executor": "316593"
+  },
+  "3|316593": {
+    "id_genre": "3",
+    "id_executor": "316593"
+  },
+  "16|2572068": {
+    "id_genre": "16",
+    "id_executor": "2572068"
+  },
+  "15|675409": {
+    "id_genre": "15",
+    "id_executor": "675409"
+  },
+  "16|675409": {
+    "id_genre": "16",
+    "id_executor": "675409"
+  },
+  "44|675409": {
+    "id_genre": "44",
+    "id_executor": "675409"
+  },
+  "15|756270": {
+    "id_genre": "15",
+    "id_executor": "756270"
+  },
+  "16|756270": {
+    "id_genre": "16",
+    "id_executor": "756270"
+  },
+  "15|12148": {
+    "id_genre": "15",
+    "id_executor": "12148"
+  },
+  "3|12148": {
+    "id_genre": "3",
+    "id_executor": "12148"
+  },
+  "16|12148": {
+    "id_genre": "16",
+    "id_executor": "12148"
+  },
+  "15|440043": {
+    "id_genre": "15",
+    "id_executor": "440043"
+  },
+  "16|440043": {
+    "id_genre": "16",
+    "id_executor": "440043"
+  },
+  "15|405243": {
+    "id_genre": "15",
+    "id_executor": "405243"
+  },
+  "16|405243": {
+    "id_genre": "16",
+    "id_executor": "405243"
+  },
+  "17|405243": {
+    "id_genre": "17",
+    "id_executor": "405243"
+  },
+  "15|395011": {
+    "id_genre": "15",
+    "id_executor": "395011"
+  },
+  "16|395011": {
+    "id_genre": "16",
+    "id_executor": "395011"
+  },
+  "17|395011": {
+    "id_genre": "17",
+    "id_executor": "395011"
+  },
+  "15|99945": {
+    "id_genre": "15",
+    "id_executor": "99945"
+  },
+  "16|99945": {
+    "id_genre": "16",
+    "id_executor": "99945"
+  },
+  "20|99945": {
+    "id_genre": "20",
+    "id_executor": "99945"
+  },
+  "15|28509": {
+    "id_genre": "15",
+    "id_executor": "28509"
+  },
+  "4|28509": {
+    "id_genre": "4",
+    "id_executor": "28509"
+  },
+  "16|28509": {
+    "id_genre": "16",
+    "id_executor": "28509"
+  },
+  "15|17640": {
+    "id_genre": "15",
+    "id_executor": "17640"
+  },
+  "16|17640": {
+    "id_genre": "16",
+    "id_executor": "17640"
+  },
+  "25|17640": {
+    "id_genre": "25",
+    "id_executor": "17640"
+  },
+  "8|218254": {
+    "id_genre": "8",
+    "id_executor": "218254"
+  },
+  "1|1057": {
+    "id_genre": "1",
+    "id_executor": "1057"
+  },
+  "14|1057": {
+    "id_genre": "14",
+    "id_executor": "1057"
+  },
+  "3|1057": {
+    "id_genre": "3",
+    "id_executor": "1057"
+  },
+  "1|6165": {
+    "id_genre": "1",
+    "id_executor": "6165"
+  },
+  "1|82377": {
+    "id_genre": "1",
+    "id_executor": "82377"
+  },
+  "3|82377": {
+    "id_genre": "3",
+    "id_executor": "82377"
+  },
+  "14|82377": {
+    "id_genre": "14",
+    "id_executor": "82377"
+  },
+  "1|8934": {
+    "id_genre": "1",
+    "id_executor": "8934"
+  },
+  "21|8934": {
+    "id_genre": "21",
+    "id_executor": "8934"
+  },
+  "45|8934": {
+    "id_genre": "45",
+    "id_executor": "8934"
+  },
+  "15|435497": {
+    "id_genre": "15",
+    "id_executor": "435497"
+  },
+  "17|435497": {
+    "id_genre": "17",
+    "id_executor": "435497"
+  },
+  "4|435497": {
+    "id_genre": "4",
+    "id_executor": "435497"
+  },
+  "15|1195731": {
+    "id_genre": "15",
+    "id_executor": "1195731"
+  },
+  "15|92256": {
+    "id_genre": "15",
+    "id_executor": "92256"
+  },
+  "17|92256": {
+    "id_genre": "17",
+    "id_executor": "92256"
+  },
+  "16|92256": {
+    "id_genre": "16",
+    "id_executor": "92256"
+  },
+  "15|63448": {
+    "id_genre": "15",
+    "id_executor": "63448"
+  },
+  "17|63448": {
+    "id_genre": "17",
+    "id_executor": "63448"
+  },
+  "16|63448": {
+    "id_genre": "16",
+    "id_executor": "63448"
+  },
+  "15|7054": {
+    "id_genre": "15",
+    "id_executor": "7054"
+  },
+  "17|7054": {
+    "id_genre": "17",
+    "id_executor": "7054"
+  },
+  "16|7054": {
+    "id_genre": "16",
+    "id_executor": "7054"
+  },
+  "3|216306": {
+    "id_genre": "3",
+    "id_executor": "216306"
+  },
+  "21|216306": {
+    "id_genre": "21",
+    "id_executor": "216306"
+  },
+  "46|216306": {
+    "id_genre": "46",
+    "id_executor": "216306"
+  },
+  "4|3399": {
+    "id_genre": "4",
+    "id_executor": "3399"
+  },
+  "5|3399": {
+    "id_genre": "5",
+    "id_executor": "3399"
+  },
+  "24|3399": {
+    "id_genre": "24",
+    "id_executor": "3399"
+  },
+  "15|121021": {
+    "id_genre": "15",
+    "id_executor": "121021"
+  },
+  "16|121021": {
+    "id_genre": "16",
+    "id_executor": "121021"
+  },
+  "20|121021": {
+    "id_genre": "20",
+    "id_executor": "121021"
+  },
+  "15|1052244": {
+    "id_genre": "15",
+    "id_executor": "1052244"
+  },
+  "16|1052244": {
+    "id_genre": "16",
+    "id_executor": "1052244"
+  },
+  "1|21761": {
+    "id_genre": "1",
+    "id_executor": "21761"
+  },
+  "21|21761": {
+    "id_genre": "21",
+    "id_executor": "21761"
+  },
+  "13|21761": {
+    "id_genre": "13",
+    "id_executor": "21761"
+  },
+  "1|37175": {
+    "id_genre": "1",
+    "id_executor": "37175"
+  },
+  "3|37175": {
+    "id_genre": "3",
+    "id_executor": "37175"
+  },
+  "15|873499": {
+    "id_genre": "15",
+    "id_executor": "873499"
+  },
+  "16|873499": {
+    "id_genre": "16",
+    "id_executor": "873499"
+  },
+  "21|47342": {
+    "id_genre": "21",
+    "id_executor": "47342"
+  },
+  "3|47342": {
+    "id_genre": "3",
+    "id_executor": "47342"
+  },
+  "1|47342": {
+    "id_genre": "1",
+    "id_executor": "47342"
+  },
+  "4|8616": {
+    "id_genre": "4",
+    "id_executor": "8616"
+  },
+  "7|8616": {
+    "id_genre": "7",
+    "id_executor": "8616"
+  },
+  "3|8616": {
+    "id_genre": "3",
+    "id_executor": "8616"
+  },
+  "27|676607": {
+    "id_genre": "27",
+    "id_executor": "676607"
+  },
+  "4|533": {
+    "id_genre": "4",
+    "id_executor": "533"
+  },
+  "14|533": {
+    "id_genre": "14",
+    "id_executor": "533"
+  },
+  "5|533": {
+    "id_genre": "5",
+    "id_executor": "533"
+  },
+  "4|4566": {
+    "id_genre": "4",
+    "id_executor": "4566"
+  },
+  "29|4566": {
+    "id_genre": "29",
+    "id_executor": "4566"
+  },
+  "19|4566": {
+    "id_genre": "19",
+    "id_executor": "4566"
+  },
+  "22|359985": {
+    "id_genre": "22",
+    "id_executor": "359985"
+  },
+  "32|3098221": {
+    "id_genre": "32",
+    "id_executor": "3098221"
+  },
+  "27|3098221": {
+    "id_genre": "27",
+    "id_executor": "3098221"
+  },
+  "7|22808": {
+    "id_genre": "7",
+    "id_executor": "22808"
+  },
+  "4|22808": {
+    "id_genre": "4",
+    "id_executor": "22808"
+  },
+  "12|22808": {
+    "id_genre": "12",
+    "id_executor": "22808"
+  },
+  "8|218258": {
+    "id_genre": "8",
+    "id_executor": "218258"
+  },
+  "7|944": {
+    "id_genre": "7",
+    "id_executor": "944"
+  },
+  "4|944": {
+    "id_genre": "4",
+    "id_executor": "944"
+  },
+  "3|944": {
+    "id_genre": "3",
+    "id_executor": "944"
+  },
+  "21|417719": {
+    "id_genre": "21",
+    "id_executor": "417719"
+  },
+  "12|417719": {
+    "id_genre": "12",
+    "id_executor": "417719"
+  },
+  "22|417719": {
+    "id_genre": "22",
+    "id_executor": "417719"
+  },
+  "4|327": {
+    "id_genre": "4",
+    "id_executor": "327"
+  },
+  "3|327": {
+    "id_genre": "3",
+    "id_executor": "327"
+  },
+  "5|327": {
+    "id_genre": "5",
+    "id_executor": "327"
+  },
+  "15|83644": {
+    "id_genre": "15",
+    "id_executor": "83644"
+  },
+  "16|83644": {
+    "id_genre": "16",
+    "id_executor": "83644"
+  },
+  "3|83644": {
+    "id_genre": "3",
+    "id_executor": "83644"
+  },
+  "15|128544": {
+    "id_genre": "15",
+    "id_executor": "128544"
+  },
+  "16|128544": {
+    "id_genre": "16",
+    "id_executor": "128544"
+  },
+  "25|128544": {
+    "id_genre": "25",
+    "id_executor": "128544"
+  },
+  "7|21581": {
+    "id_genre": "7",
+    "id_executor": "21581"
+  },
+  "4|21581": {
+    "id_genre": "4",
+    "id_executor": "21581"
+  },
+  "14|21581": {
+    "id_genre": "14",
+    "id_executor": "21581"
+  },
+  "21|994326": {
+    "id_genre": "21",
+    "id_executor": "994326"
+  },
+  "9|994326": {
+    "id_genre": "9",
+    "id_executor": "994326"
+  },
+  "42|994326": {
+    "id_genre": "42",
+    "id_executor": "994326"
+  },
+  "3|184290": {
+    "id_genre": "3",
+    "id_executor": "184290"
+  },
+  "21|184290": {
+    "id_genre": "21",
+    "id_executor": "184290"
+  },
+  "9|184290": {
+    "id_genre": "9",
+    "id_executor": "184290"
+  },
+  "16|1084444": {
+    "id_genre": "16",
+    "id_executor": "1084444"
+  },
+  "15|1084444": {
+    "id_genre": "15",
+    "id_executor": "1084444"
+  },
+  "27|2632510": {
+    "id_genre": "27",
+    "id_executor": "2632510"
+  },
+  "15|4474": {
+    "id_genre": "15",
+    "id_executor": "4474"
+  },
+  "16|4474": {
+    "id_genre": "16",
+    "id_executor": "4474"
+  },
+  "3|4474": {
+    "id_genre": "3",
+    "id_executor": "4474"
+  },
+  "16|83250": {
+    "id_genre": "16",
+    "id_executor": "83250"
+  },
+  "15|83250": {
+    "id_genre": "15",
+    "id_executor": "83250"
+  },
+  "15|1271977": {
+    "id_genre": "15",
+    "id_executor": "1271977"
+  },
+  "15|83540": {
+    "id_genre": "15",
+    "id_executor": "83540"
+  },
+  "16|83540": {
+    "id_genre": "16",
+    "id_executor": "83540"
+  },
+  "17|83540": {
+    "id_genre": "17",
+    "id_executor": "83540"
+  },
+  "15|1106562": {
+    "id_genre": "15",
+    "id_executor": "1106562"
+  },
+  "9|3119": {
+    "id_genre": "9",
+    "id_executor": "3119"
+  },
+  "2|79215": {
+    "id_genre": "2",
+    "id_executor": "79215"
+  },
+  "26|79215": {
+    "id_genre": "26",
+    "id_executor": "79215"
+  },
+  "36|79215": {
+    "id_genre": "36",
+    "id_executor": "79215"
+  },
+  "3|454693": {
+    "id_genre": "3",
+    "id_executor": "454693"
+  },
+  "7|30775": {
+    "id_genre": "7",
+    "id_executor": "30775"
+  },
+  "3|30775": {
+    "id_genre": "3",
+    "id_executor": "30775"
+  },
+  "14|30775": {
+    "id_genre": "14",
+    "id_executor": "30775"
+  },
+  "7|1463": {
+    "id_genre": "7",
+    "id_executor": "1463"
+  },
+  "14|1463": {
+    "id_genre": "14",
+    "id_executor": "1463"
+  },
+  "4|1463": {
+    "id_genre": "4",
+    "id_executor": "1463"
+  },
+  "7|18954": {
+    "id_genre": "7",
+    "id_executor": "18954"
+  },
+  "4|18954": {
+    "id_genre": "4",
+    "id_executor": "18954"
+  },
+  "12|18954": {
+    "id_genre": "12",
+    "id_executor": "18954"
+  },
+  "2|586064": {
+    "id_genre": "2",
+    "id_executor": "586064"
+  },
+  "1|586064": {
+    "id_genre": "1",
+    "id_executor": "586064"
+  },
+  "47|586064": {
+    "id_genre": "47",
+    "id_executor": "586064"
+  },
+  "17|17628": {
+    "id_genre": "17",
+    "id_executor": "17628"
+  },
+  "3|190559": {
+    "id_genre": "3",
+    "id_executor": "190559"
+  },
+  "21|190559": {
+    "id_genre": "21",
+    "id_executor": "190559"
+  },
+  "7|351": {
+    "id_genre": "7",
+    "id_executor": "351"
+  },
+  "4|351": {
+    "id_genre": "4",
+    "id_executor": "351"
+  },
+  "14|351": {
+    "id_genre": "14",
+    "id_executor": "351"
+  }
+}
